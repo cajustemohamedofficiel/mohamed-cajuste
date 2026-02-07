@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mohamed Cajuste</title>
-    <link>https://yourdomain.com/</link>
+    <link>https://cajustemohamedofficiel.github.io/mohamed-cajuste/</link>
     <description>Recent content on Mohamed Cajuste</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yourdomain.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cajustemohamedofficiel.github.io/mohamed-cajuste/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Article Title</title>
-      <link>https://yourdomain.com/writing/first-article/</link>
+      <link>https://cajustemohamedofficiel.github.io/mohamed-cajuste/writing/first-article/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://yourdomain.com/writing/first-article/</guid>
+      <guid>https://cajustemohamedofficiel.github.io/mohamed-cajuste/writing/first-article/</guid>
       <description>&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;h2 id=&#34;analysis&#34;&gt;Analysis&lt;/h2&gt;
@@ -21,9 +21,9 @@
     </item>
     <item>
       <title>Project Title</title>
-      <link>https://yourdomain.com/research/project-1/</link>
+      <link>https://cajustemohamedofficiel.github.io/mohamed-cajuste/research/project-1/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://yourdomain.com/research/project-1/</guid>
+      <guid>https://cajustemohamedofficiel.github.io/mohamed-cajuste/research/project-1/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;h2 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h2&gt;
 &lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
@@ -36,9 +36,9 @@
     </item>
     <item>
       <title>About</title>
-      <link>https://yourdomain.com/about/</link>
+      <link>https://cajustemohamedofficiel.github.io/mohamed-cajuste/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yourdomain.com/about/</guid>
+      <guid>https://cajustemohamedofficiel.github.io/mohamed-cajuste/about/</guid>
       <description>&lt;p&gt;Current role and academic status.&lt;/p&gt;
 &lt;p&gt;Primary research and technical interests.&lt;/p&gt;
 &lt;p&gt;Brief intellectual trajectory: how your focus evolved.&lt;/p&gt;
@@ -46,9 +46,9 @@
     </item>
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://yourdomain.com/cv/</link>
+      <link>https://cajustemohamedofficiel.github.io/mohamed-cajuste/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yourdomain.com/cv/</guid>
+      <guid>https://cajustemohamedofficiel.github.io/mohamed-cajuste/cv/</guid>
       <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
 &lt;h2 id=&#34;research--projects&#34;&gt;Research &amp;amp; Projects&lt;/h2&gt;
 &lt;h2 id=&#34;publications-if-any&#34;&gt;Publications (if any)&lt;/h2&gt;
@@ -57,9 +57,9 @@
     </item>
     <item>
       <title>Services</title>
-      <link>https://yourdomain.com/services/</link>
+      <link>https://cajustemohamedofficiel.github.io/mohamed-cajuste/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yourdomain.com/services/</guid>
+      <guid>https://cajustemohamedofficiel.github.io/mohamed-cajuste/services/</guid>
       <description>&lt;h3 id=&#34;service-1&#34;&gt;Service 1&lt;/h3&gt;
 &lt;p&gt;Scope:
 Exclusions:&lt;/p&gt;
