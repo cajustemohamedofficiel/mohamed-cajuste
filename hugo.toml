@@ -1,4 +1,7 @@
 baseURL = "https://cajustemohamedofficiel.github.io/mohamed-cajuste/"
+canonifyURLs = true
+relativeURLs = false
+
 languageCode = "en-us"
 title = "Mohamed Cajuste"
 theme = "PaperMod"
