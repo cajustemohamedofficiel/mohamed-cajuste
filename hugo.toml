@@ -23,3 +23,24 @@ enableRobotsTXT = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[menu]
+  [[menu.main]]
+    name = "Writing"
+    url = "/writing/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 3
+
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 4
