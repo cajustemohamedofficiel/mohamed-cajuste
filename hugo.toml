@@ -1,3 +1,25 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://yourdomain.com/"
+languageCode = "en-us"
+title = "Mohamed Cajuste"
+theme = "PaperMod"
+
+paginate = 10
+enableRobotsTXT = true
+
+[params]
+  author = "Mohamed Cajuste"
+  description = "Research-oriented portfolio"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  math = true
+
+[markup]
+  [markup.highlight]
+    style = "github"
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
