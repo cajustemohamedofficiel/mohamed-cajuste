@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Mohamed Cajuste"
 theme = "PaperMod"
 
-paginate = 10
+pagination.pagerSize = 10
 enableRobotsTXT = true
 
 [params]
